@@ -1,2 +1,12 @@
-# NextGen-HR-Pay
-Repository to hold a copy of the Architecture Modeling 
+# NextGen-HR-Pay / ProGen RH & Paye 
+https://wiki.gccollab.ca/HRandPayNextGen-ProGenRHetPaye
+
+- to share and collaborate on draft NextGen HR & Pay solution architecture models using Archimate 3.0.1 as the modelling notation 
+- partager et collaborer sur des projets de modèles d'architecture de solution ProGen RH & Paye utilisant Archimate 3.0.1 comme notation de modélisation
+(http://pubs.opengroup.org/architecture/archimate3-doc/)
+
+
+
+
+
+
