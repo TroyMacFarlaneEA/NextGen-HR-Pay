@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contributes to"
+    id="35338996-4d93-4ff2-9d76-2d6c82571a74">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_799efe6a-3098-44e6-9501-9947abd161d7.xml#799efe6a-3098-44e6-9501-9947abd161d7"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_3e294944-03ba-4f47-bbc2-5d60afe6b77c.xml#3e294944-03ba-4f47-bbc2-5d60afe6b77c"/>
+</archimate:FlowRelationship>
