@@ -182,4 +182,25 @@
         xsi:type="archimate:BusinessService"
         href="BusinessService_091ec5be-8c83-4f31-8020-9860dd3d6701.xml#091ec5be-8c83-4f31-8020-9860dd3d6701"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="d2097d3d-c7f7-4ed0-ad9c-75e34dd9987c"
+      font="1|Segoe UI|16.125|0|WINDOWS|1|-43|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      content="NextGen HR &amp; PAY Generic Business Capability"
+      borderType="2">
+    <bounds
+        width="805"
+        height="46"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="4a41b3c8-b915-463c-ba7d-7e1eb7b850fb"
+      font="1|Segoe UI|10.125|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      content="(DRAFT) February 26, 2019"
+      borderType="2">
+    <bounds
+        y="528"
+        width="805"
+        height="28"/>
+  </children>
 </archimate:ArchimateDiagramModel>
